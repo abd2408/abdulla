@@ -1,1 +1,3 @@
 o'xshadimi
+ha user.name va user.email o'zgartirildi 
+git pull origin master --allow-unrelated-histories orqali
